@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{4C934F63-461A-19B0-D157-057996AD14C4}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/onoff.cs">
+    <Files>
+      <File FileName="Assets/onoff.cs" Line="10" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="mansion" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="onoff.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="6bf120e3-016e-4ecd-aca3-ed72b7c70ea7" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
